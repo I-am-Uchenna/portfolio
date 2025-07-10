@@ -7,6 +7,7 @@
 ```sh
 npm install
 npm start
+npm install react-helmet
 ```
 
 ## Deployment
